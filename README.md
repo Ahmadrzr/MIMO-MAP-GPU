@@ -1,6 +1,6 @@
 # Maximum A Posteriori MIMO GPU Detector (MIMO-MAP-GPU)
 
-MIMO-MAP-GPU is an open source C++/CUDA implementaion of MIMO MAP Detector.
+MIMO-MAP-GPU is an open source C++/CUDA implementation of MIMO MAP Detector.
 
 # Features
 	- Multithread C++ MIMO MAP Detector method (MAP-GPU)
